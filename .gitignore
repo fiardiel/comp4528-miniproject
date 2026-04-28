@@ -13,3 +13,4 @@ env/
 .vscode/
 .idea /
 *.log
+.DS_Store
