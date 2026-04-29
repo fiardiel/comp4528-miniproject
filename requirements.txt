@@ -4,3 +4,5 @@ matplotlib
 scikit-learn
 opencv-python
 ipympl
+seaborn
+transformers
